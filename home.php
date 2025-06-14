@@ -53,9 +53,9 @@ include 'components/wishlist_cart.php';
             <div class="swiper-wrapper">
                <?php
                $slides = [
-                  ["images/home-img-1.png", "Latest Smartphones"],
-                  ["images/home-img-2.png", "Latest Watches"],
-                  ["images/home-img-3.png", "Latest Headsets"]
+                  ["images/home-img-4.png", "Latest Smartphones"],
+                  ["images/home-img-5.png", "Latest Watches"],
+                  ["images/home-img-6.png", "Latest Laptops"]
                ];
                foreach ($slides as $slide) {
                ?>
@@ -85,12 +85,12 @@ include 'components/wishlist_cart.php';
                <?php
                $categories = [
                   ['laptop', 'icon-1.png'],
-                  ['televisi', 'icon-2.png'],
+                  ['tv', 'icon-2.png'],
                   ['kamera', 'icon-3.png'],
                   ['mouse', 'icon-4.png'],
-                  ['fridge', 'icon-5.png'],
+                  ['kulkas', 'icon-5.png'],
                   ['washing', 'icon-6.png'],
-                  ['handphone', 'icon-7.png'],
+                  ['smartphone', 'icon-7.png'],
                   ['watch', 'icon-8.png']
                ];
                foreach ($categories as $cat) {

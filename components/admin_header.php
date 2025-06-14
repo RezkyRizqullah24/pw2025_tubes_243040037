@@ -21,12 +21,12 @@
 
       <div class="collapse navbar-collapse" id="adminNavbar">
          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item"><a class="nav-link fs-5" href="../admin/dashboard.php">Home</a></li>
-            <li class="nav-item"><a class="nav-link fs-5" href="../admin/products.php">Products</a></li>
-            <li class="nav-item"><a class="nav-link fs-5" href="../admin/placed_orders.php">Orders</a></li>
-            <li class="nav-item"><a class="nav-link fs-5" href="../admin/admin_accounts.php">Admins</a></li>
-            <li class="nav-item"><a class="nav-link fs-5" href="../admin/users_accounts.php">Users</a></li>
-            <li class="nav-item"><a class="nav-link fs-5" href="../admin/messages.php">Messages</a></li>
+            <li class="nav-item"><a class="nav-link fs-6" href="../admin/dashboard.php">Home</a></li>
+            <li class="nav-item"><a class="nav-link fs-6" href="../admin/products.php">Products</a></li>
+            <li class="nav-item"><a class="nav-link fs-6" href="../admin/placed_orders.php">Orders</a></li>
+            <li class="nav-item"><a class="nav-link fs-6" href="../admin/admin_accounts.php">Admins</a></li>
+            <li class="nav-item"><a class="nav-link fs-6" href="../admin/users_accounts.php">Users</a></li>
+            <li class="nav-item"><a class="nav-link fs-6" href="../admin/messages.php">Messages</a></li>
          </ul>
 
          <ul class="navbar-nav d-flex align-items-center">

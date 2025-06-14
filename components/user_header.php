@@ -21,11 +21,11 @@
 
       <div class="collapse navbar-collapse" id="navbarContent">
          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item"><a class="nav-link fs-4" href="home.php">Home</a></li>
-            <li class="nav-item"><a class="nav-link fs-4" href="about.php">About</a></li>
-            <li class="nav-item"><a class="nav-link fs-4" href="orders.php">Orders</a></li>
-            <li class="nav-item"><a class="nav-link fs-4" href="shop.php">Shop</a></li>
-            <li class="nav-item"><a class="nav-link fs-4" href="contact.php">Contact</a></li>
+            <li class="nav-item"><a class="nav-link fs-6" href="home.php">Home</a></li>
+            <li class="nav-item"><a class="nav-link fs-6" href="about.php">About</a></li>
+            <li class="nav-item"><a class="nav-link fs-6" href="orders.php">Orders</a></li>
+            <li class="nav-item"><a class="nav-link fs-6" href="shop.php">Shop</a></li>
+            <li class="nav-item"><a class="nav-link fs-6" href="contact.php">Contact</a></li>
          </ul>
 
          <ul class="navbar-nav d-flex align-items-center">
